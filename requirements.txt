@@ -1,11 +1,12 @@
 streamlit
-whisper
-openai-whisper
-google-generativeai
 pandas
 numpy
+google-generativeai
 torch
 torchaudio
 torchvision
-dotenv
+transformers
+openai-whisper
+ffmpeg-python
+python-dotenv
 plotly
