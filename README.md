@@ -40,3 +40,25 @@ python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate  # On Windows
 ```
+3️⃣ Install dependencies
+```py
+python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+venv\Scripts\activate  # On Windows
+```
+4️⃣ Set up API Keys
+Create a .env file and add your Gemini API key:
+```sh
+GEMINI_API_KEY=your_api_key_here
+```
+5️⃣ Run the app
+```sh
+streamlit run app.py
+```
+
+**Usage**
+1️⃣ Choose a category & difficulty level
+2️⃣ Generate a random question
+3️⃣ Record & upload your answer
+4️⃣ Get AI-generated feedback & score
+5️⃣ Retry and compare previous attempts
