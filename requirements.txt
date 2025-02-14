@@ -1,0 +1,11 @@
+streamlit
+whisper
+openai-whisper
+google-generativeai
+pandas
+numpy
+torch
+torchaudio
+torchvision
+dotenv
+plotly
